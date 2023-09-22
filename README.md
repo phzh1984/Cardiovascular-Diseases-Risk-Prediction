@@ -6,7 +6,7 @@ The Cardiovascular Disease Prediction project is a data-driven initiative aimed 
 
 Dataset
 
-The project utilizes a carefully curated dataset with 19 relevant features, collected from the 2021 Behavioral Risk Factor Surveillance System (BRFSS) by the CDC. These features include information on general health, medical history, lifestyle choices, and demographics. Here is a brief description of the key features:
+The project utilizes a carefully curated dataset with 19 relevant features for 30,8855 individuals, collected from the 2021 Behavioral Risk Factor Surveillance System (BRFSS) by the CDC. These features include information on general health, medical history, lifestyle choices, and demographics. Here is a brief description of the key features:
 
 General Health: General health condition of the patient.
 
