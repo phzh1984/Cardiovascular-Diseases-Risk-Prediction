@@ -76,6 +76,12 @@ Conclusion
 
 This project underscores the power of data-driven approaches in healthcare and their role in proactive patient management. By predicting cardiovascular disease risks and providing actionable insights, it contributes to the overall improvement of cardiovascular health in the population.
 
+From the exploratory data analysis, we observed that the risk of cardiovascular disease increases with age, with individuals above 55 years being particularly prone to this condition. The highest number of cardiovascular disease cases was found in patients aged 80 and above. Additionally, higher BMI levels were associated with an increased likelihood of cardiovascular disease.
+
+Interestingly, older patients who exercise appeared to be more prone to cardiovascular disease, possibly due to the strain on the heart. Dietary habits also played a role, as patients who consumed larger quantities of fruits and vegetables had a lower risk, while those who consumed fried potatoes had a higher risk.
+
+Furthermore, smoking or a history of smoking was linked to an increased risk of cardiovascular disease. Surprisingly, previous medical history related to cancer, arthritis, diabetes, or depression had no major effect on the likelihood of cardiovascular disease.
+
 
 
 
