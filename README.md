@@ -42,6 +42,10 @@ Green Vegetable Consumption: Patient's consumption of green vegetables.
 
 Fried Potato Consumption: Patient's consumption of fried potatoes.
 
+Height_(cm): Patient's height.
+
+Weight_(kg): Patient's weight.
+
 The Project Impact and Insights:
 
 Through exploratory data analysis, this project has uncovered several key insights that contribute to our understanding of cardiovascular disease risk factors:
